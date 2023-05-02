@@ -1,0 +1,40 @@
+### Footprint positions - created on Fri 28 Apr 2023 10:37:56 PM CDT ###
+### Printed by KiCad version 7.0.2-6a45011f42~172~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                    PosX       PosY       Rot  Side
+C3        220_µF        CP_Radial_Tantal_D6.0mm_P2.50mm          6.3100    20.3200  180.0000  top
+C13       106            C_0805_2012Metric                       34.2900    22.5400   90.0000  top
+IC1       LM4871MX_NOPB  LM4871                                  27.9400     7.6200    0.0000  top
+J1        Power          PinHeader_1x02_P2.54mm_Vertical_Wide    72.3900    10.1600  180.0000  top
+J2        Rec            PinHeader_1x02_P2.54mm_Vertical_Wide    11.4300    27.9400  180.0000  top
+J3        Play           PinHeader_1x02_P2.54mm_Vertical_Wide    15.2400    27.9400  180.0000  top
+J4        Mic            PinHeader_1x02_P2.54mm_Vertical_Wide     5.7150    10.1550  180.0000  top
+J6        Speaker        PinHeader_1x02_P2.54mm_Vertical_Wide    38.1000    11.4300    0.0000  top
+J7        100k_pot       PinHeader_1x02_P2.54mm_Vertical_Wide    38.1000     6.3500    0.0000  top
+J8        100k_pot       PinHeader_1x02_P2.54mm_Vertical_Wide    43.1800    27.9400  -90.0000  top
+J9        LED            PinHeader_1x02_P2.54mm_Vertical_Wide    53.3467    12.7000    0.0000  top
+J10       LED            PinHeader_1x02_P2.54mm_Vertical_Wide    53.3467     5.0800    0.0000  top
+J11       LED            PinHeader_1x02_P2.54mm_Vertical_Wide    57.1567    12.7000    0.0000  top
+J12       LED            PinHeader_1x02_P2.54mm_Vertical_Wide    57.1567     5.0800    0.0000  top
+J13       LED            PinHeader_1x02_P2.54mm_Vertical_Wide    60.9667    12.7000    0.0000  top
+J14       LED            PinHeader_1x02_P2.54mm_Vertical_Wide    60.9667     5.0800    0.0000  top
+J15       LED            PinHeader_1x02_P2.54mm_Vertical_Wide    64.7767    12.7000    0.0000  top
+J16       LED            PinHeader_1x02_P2.54mm_Vertical_Wide    64.7700     5.0876    0.0000  top
+PLAY1     Blue           LED_0805_2012Metric                     16.1775    24.1300  180.0000  top
+PLAY4     Yellow         LED_0805_2012Metric                     48.2667     2.5400   90.0000  top
+PLAY6     Yellow         LED_0805_2012Metric                     44.4567     2.5400   90.0000  top
+PWR1      Green          LED_0805_2012Metric                     29.2100    16.5100    0.0000  top
+Q3        PMBT2222A      SOT-23                                  46.6642    14.2900    0.0000  top
+R8        10k            R_0805_2012Metric                       22.5025    14.3275  -90.0000  top
+R9        1k             R_0805_2012Metric                       29.2100    19.0500  180.0000  top
+R12       1k             R_0805_2012Metric                       46.9900    21.2325  -90.0000  top
+R14       100k           R_0805_2012Metric                       34.2900    15.2400   90.0000  top
+R15       200_Ω         R_0805_2012Metric                       48.2667     6.3250   90.0000  top
+R17       200_Ω         R_0805_2012Metric                       44.4567     6.3250   90.0000  top
+R19       1k             R_0805_2012Metric                       32.6875    27.9400  180.0000  top
+REC1      Red            LED_0805_2012Metric                     22.8600    21.2575   90.0000  top
+U1        ua7805         ua7805-KTT-_R-PSFM-G3_                  65.9000    20.3200  -90.0000  top
+U2        ISD1820        ISD1820                                 11.4300    19.0500    0.0000  top
+U3        NE555D         SOIC-8_3.9x4.9mm_P1.27mm                40.6400    20.3200    0.0000  top
+## End

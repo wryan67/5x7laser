@@ -1,0 +1,10 @@
+*.dxf~
+^#*dxf
+*.b#?
+*.s#?
+*.tap
+*.tap.nc
+*.border.nc
+drill*.nc
+
+*backups/
